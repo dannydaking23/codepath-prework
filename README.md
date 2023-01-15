@@ -4,7 +4,7 @@ This IOS application displays an FIU logo, and allows the user to input their fi
 
 App Walk-though
 
-https://imgur.com/a/AM9cTof
+https://i.imgur.com/y0eEU75.gif
 
 Required Features
 -[x] 1. App displays an image of a school's logo
